@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vending_machine/static/css/main.37d5e5a1.chunk.css",
+    "main.js": "/vending_machine/static/js/main.57b8d787.chunk.js",
+    "main.js.map": "/vending_machine/static/js/main.57b8d787.chunk.js.map",
+    "runtime-main.js": "/vending_machine/static/js/runtime-main.f170d50c.js",
+    "runtime-main.js.map": "/vending_machine/static/js/runtime-main.f170d50c.js.map",
+    "static/js/2.1f298500.chunk.js": "/vending_machine/static/js/2.1f298500.chunk.js",
+    "static/js/2.1f298500.chunk.js.map": "/vending_machine/static/js/2.1f298500.chunk.js.map",
+    "static/js/3.e77c449f.chunk.js": "/vending_machine/static/js/3.e77c449f.chunk.js",
+    "static/js/3.e77c449f.chunk.js.map": "/vending_machine/static/js/3.e77c449f.chunk.js.map",
+    "index.html": "/vending_machine/index.html",
+    "static/css/main.37d5e5a1.chunk.css.map": "/vending_machine/static/css/main.37d5e5a1.chunk.css.map",
+    "static/js/2.1f298500.chunk.js.LICENSE.txt": "/vending_machine/static/js/2.1f298500.chunk.js.LICENSE.txt",
+    "static/media/Chips.c7e44957.png": "/vending_machine/static/media/Chips.c7e44957.png",
+    "static/media/Soda.8db7d5c9.png": "/vending_machine/static/media/Soda.8db7d5c9.png",
+    "static/media/VendingMachine.ac92bb0d.png": "/vending_machine/static/media/VendingMachine.ac92bb0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f170d50c.js",
+    "static/js/2.1f298500.chunk.js",
+    "static/css/main.37d5e5a1.chunk.css",
+    "static/js/main.57b8d787.chunk.js"
+  ]
+}
